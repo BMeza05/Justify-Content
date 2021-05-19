@@ -1,0 +1,10 @@
+#cats{
+    width: 700;
+    height: 550px;
+    background-color:black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.row{
+    background-color:black;
+}
